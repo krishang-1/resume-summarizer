@@ -72,10 +72,9 @@ Streamlit will open a local URL (e.g., `http://localhost:8501`) where you can up
 ---
 
 ## Screenshots / Demo
-- You can upload videos to YouTube or Google Drive and link them in README:
 
 ```markdown
-Watch Demo Video --> (https://youtu.be/kI3IQc-4xLg)
+Watch Demo Video --> https://youtu.be/kI3IQc-4xLg
 ```
 
 ---
